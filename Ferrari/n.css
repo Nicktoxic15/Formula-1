@@ -1,0 +1,38 @@
+.backButton {
+  height: 50px;
+  bottom: 5px;
+  position: fixed;
+  right: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+
+p {
+  font-size: 30px;
+  text-align: justify;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.character{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.car{
+  width: 100%;
+}
